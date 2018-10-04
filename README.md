@@ -1,2 +1,3 @@
-# double-submit-cookies-pattern
-This repository contains the Double Submit Cookies Pattern sample implemented to overcome the CSRF attacks
+# Double Submit Cookies Pattern
+
+This implementation show how we can use Double Submit Cookies Pattern as a prevention mechanism to avoid CSRF Attacks.
